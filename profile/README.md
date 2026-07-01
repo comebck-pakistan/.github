@@ -14,7 +14,7 @@
 [![Website](https://img.shields.io/badge/Website-comebck.dev-01411C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.comebck.dev)
 [![Format](https://img.shields.io/badge/Format-8--Week_Online_Accelerator-10B981?style=for-the-badge)](https://www.comebck.dev)
 [![Founding Cohort](https://img.shields.io/badge/Founding_Cohort-2026-01411C?style=for-the-badge)](https://www.comebck.dev)
-[![Squads](https://img.shields.io/badge/Squads-16-10B981?style=for-the-badge)](#-find-your-squad)
+[![Squads](https://img.shields.io/badge/Squads-17-10B981?style=for-the-badge)](#-find-your-squad)
 [![Build in Public](https://img.shields.io/badge/Build-in_Public-01411C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Comebck-Pakistan)
 [![License](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
@@ -55,7 +55,7 @@ Inside you'll find **10 ideas** (a menu, not an assignment), the product-thinkin
 Each squad has its own repository — your home base for code, commits, and proof of work. Find yours and say hi! 👇
 
 <details open>
-<summary><b>The 16 Cohort 1 squads</b> 🐾</summary>
+<summary><b>The 17 Cohort 1 squads</b> 🐾</summary>
 
 <br/>
 
@@ -69,6 +69,7 @@ Each squad has its own repository — your home base for code, commits, and proo
 | 🐺 **Karakoram** | [`cohort-1-squad-karakoram`](https://github.com/Comebck-Pakistan/cohort-1-squad-karakoram) | | 🦄 **Mehran** | [`cohort-1-squad-mehran`](https://github.com/Comebck-Pakistan/cohort-1-squad-mehran) |
 | 🦁 **Potohar** | [`cohort-1-squad-potohar`](https://github.com/Comebck-Pakistan/cohort-1-squad-potohar) | | 🐲 **Himalaya** | [`cohort-1-squad-himalaya`](https://github.com/Comebck-Pakistan/cohort-1-squad-himalaya) |
 | 🐻 **Astore** | [`cohort-1-squad-astore`](https://github.com/Comebck-Pakistan/cohort-1-squad-astore) | | 🦒 **Makran** | [`cohort-1-squad-makran`](https://github.com/Comebck-Pakistan/cohort-1-squad-makran) |
+| 🐦‍🔥 **Shigar** | [`cohort-1-squad-shigar`](https://github.com/Comebck-Pakistan/cohort-1-squad-shigar) | | | |
 
 </details>
 
